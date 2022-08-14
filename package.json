@@ -1,0 +1,14 @@
+{
+  "name": "simple-redis-monitor",
+  "version": "1.0.0",
+  "description": "Periodically checks multiple redis installations reporting memory usage and number keys matching a pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Wood",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.2.0"
+  }
+}
